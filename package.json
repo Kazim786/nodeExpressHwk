@@ -1,0 +1,22 @@
+{
+  "name": "nodeexpresshwk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expresshwk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kazim786/nodeExpressHwk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kazim786/nodeExpressHwk/issues"
+  },
+  "homepage": "https://github.com/Kazim786/nodeExpressHwk#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
