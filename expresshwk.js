@@ -12,7 +12,7 @@ app.get('/cats', (req, res) => {
 })
 
 app.get('/dogs', (req, res) => {
-    res.send('Hello world')
+    res.send('Woof')
     
 })
 
